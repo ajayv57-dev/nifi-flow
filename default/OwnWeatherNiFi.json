@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1788416532171,
+    "description" : "Initial commit of open source API flow",
+    "identifier" : "OwnWeatherNiFi",
+    "lastModifiedTimestamp" : 1788416532171,
+    "name" : "Own_Weather_NiFi",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
